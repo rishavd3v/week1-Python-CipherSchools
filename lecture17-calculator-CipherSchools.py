@@ -15,4 +15,4 @@ print((2+3)*5/2%6)  # left to right associativity
 print(12.5 % 6)
 
 # exponents
-print(2**3**2)  # right to left associativity
+print(2**3**2)  # right to left associativity for exponent
